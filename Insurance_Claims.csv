@@ -1,0 +1,15 @@
+,Algorithm,Encoding,Accuracy
+0,Random Forest,OneHot,0.751
+1,Decision tree,OneHot,0.687
+2,XGBoost,OneHot,0.776
+3,Adaboost,OneHot,0.776
+4,LogisticRegression,OneHot,0.752
+5,SVM,OneHot,0.753
+6,GaussianNB,OneHot,0.728
+7,Random Forest,WoE,0.79
+8,Decision tree,WoE,0.715
+9,XGBoost,WoE,0.7910000000000001
+10,Adaboost,WoE,0.7849999999999999
+11,LogisticRegression,WoE,0.753
+12,SVM,WoE,0.753
+13,GaussianNB,WoE,0.728
